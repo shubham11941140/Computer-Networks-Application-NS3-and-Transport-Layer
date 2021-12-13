@@ -1,5 +1,12 @@
 # Computer-Networks-Application-NS3-and-Transport-Layer
 
+This repository contains a deep and detailed implementation of a variety of Network Application and Transport Layer features and solves multiple daily life tasks associated with these layers. 
+
+**NS-3 is used for detailed simulations for packet transfer across the Application and Transport Layer with Wireshark being the main tool for the packet capture.**
+
+Multiple project deployment screenshots with output and packet captured files have stored associated with the code files pertaining to a host of tasks.
+Extensive graph plotting for NS-3 simulation is done using **gnuplot**.
+
 Refer to **Project Description.pdf** to understand the various tasks assigned to the Application, NS-3 Simulation and Transport Layer.
 
 #### Refer to the Reports of each task in the respective directories. 
